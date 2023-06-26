@@ -1,2 +1,7 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game Web-based app. It shows the ability to build awesome UI design and adding interaction using js.
+- Web Application is built using HTML, CSS, JS, and node.js
+- Designing an awesome user interface
+- using DOM javascript for interaction between elements
+- using npm such as express
+
+  To run the project make sure to install node_modules 
